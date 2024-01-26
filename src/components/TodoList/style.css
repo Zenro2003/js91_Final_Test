@@ -1,0 +1,25 @@
+.tasklist{
+    width: 470px;
+    margin: 20px auto;
+}
+
+
+
+.todo__list{
+    width: 470px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    align-items: flex-start;
+    row-gap: 10px;
+}
+
+.task{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 10px;
+}
+
